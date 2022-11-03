@@ -54,11 +54,11 @@ To sum it up:
 altimetric data through thermosteric sea-level rise.
 	- 1.4) Extracted the sazonal component through a gaussian filter (to emulate the effect of seasons on the thermosteric effect)
 	- 1.5) Applied a chain of bidimensional Finite Impulse Response filters to extract Rossby waves (see Polito & Liu 2003 for more info), or, as I prefer to call them: _sombrero_ _filters_:
-<p align="center"><img src="images/finalsombrero.png" width="60%" alt="sombrero"></p>
+<p align="center"><img src="images/finalsombrero.png" width="75%" alt="sombrero"></p>
 - 2 ) In parallel, I organized PHYSAT data (with info on PFT's) in pretty much the same way, after which I:
 	- 2.1) Proceeded to interpolate this data so as to match the spatial and temporal resolution with that from the altimetry data.
 	- 2.2) Separated the 6 PFTs to analyze them independently: Cyanobacteria, _Prochlorophyta_, _Prymnesiophyta_, Diatoms, Dinoflagellates and Coccolitophores
-		- 2.2.1) This procedure is documented for each group respectively in the files <br> `PHYSAT_HOV1_nano.m`, <br> `PHYSAT_HOV1_prochlo.m`, <br>`PHYSAT_HOV1_synecho.m`, <br>`PHYSAT_HOV1_diatoms.m`, <br>`PHYSAT_HOV1_phaeocys.m` and <br> `PHYSAT_HOV1_coccolitho.m`
+		- 2.2.1) This procedure is documented for each group respectively in the files <br> `PHYSAT_HOV1_nano.m`, <br> `PHYSAT_HOV2_prochlo.m`, <br>`PHYSAT_HOV3_synecho.m`, <br>`PHYSAT_HOV4_diatoms.m`, <br>`PHYSAT_HOV5_phaeocys.m` and <br> `PHYSAT_HOV6_coccolitho.m`
 - 3 ) With the two datasets prepared, I "merged" them by performing a convolution between the altimetric data and the PFT data.
 
 This yielded maps of where the organisms coincided with the passage of these low-frequency waves, either on crests or throughs, which were then analyzed to observe, quantitatively,
