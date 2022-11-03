@@ -9,8 +9,12 @@ latitude, longitude and time, as in this snapshot of SSTs in the south atlantic 
 
 <p align="center"><img src="images/currents.png" width="60%" alt="SA"></p>
 
-<img src="/images/hov.png" align="right" width="40%"/>
+
 Even when a "vertical" dimension such as Depth comes into the mix, it is customary to imagine a spherical shell upon which the variable is plotted.
+
+
+<img src="/images/hov.png" align="right" width="40%"/>
+
 
 In this project, however, instead of the usual lat-long snapshots of a certain variable, the focus was on the temporal evolution of said variable _in_ _time_, _for_ _a_ _certain_ _location_.
 Hovmöller diagrams are particularly useful when analyzing oceanic phenomena whose variability is roughly zonal i.e. confined to a single latitude. Here we have an example
