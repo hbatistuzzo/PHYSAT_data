@@ -1,5 +1,10 @@
 # PHYSAT_data_processing
  
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/PHYSAT_data_processing)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/PHYSAT_data_processing)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/PHYSAT_data_processing)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/PHYSAT_data_processing)
+
 ## Info
 These codes were used in my honour's thesis "1st mode baroclinic Rossby waves modify the composition of Phytoplancton Functional Groups".
 
