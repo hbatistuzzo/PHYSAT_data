@@ -25,7 +25,11 @@ The `PHYSAT_cuboid.m` matlab code runs through a folder of several georeferenced
 where the time variable can be understood as a vertical "z" axis. This cube is then sliced on the x-z plane i.e. the longitude-time plane for a specific latitude. Lo and behold,
 we obtain a Hovmöller / zonal-temporal diagram.
 
-But _what_ - you ask me, furiously - is the _point_? <br>
+<h2 align="center"> 
+But _what_ - you ask me, furiously - is the _point_?
+</h2>
+
+<br>
 I will leave below the abstract from my thesis, as it provides a necessary background before we can move on:
 
 Phytoplankton Functional Types (PFT's) play a variety of roles on biogeochemical cycles through positive and negative feedback mechanisms that influence a myriad of physical
@@ -51,7 +55,7 @@ altimetric data through thermosteric sea-level rise.
 - 2 ) In parallel, I organized PHYSAT data (with info on PFT's) in pretty much the same way, after which I:
 	- 2.1) Proceeded to interpolate this data so as to match the spatial and temporal resolution with that from the altimetry data.
 	- 2.2) Separated the 6 PFTs to analyze them independently: Cyanobacteria, _Prochlorophyta_, _Prymnesiophyta_, Diatoms, Dinoflagellates and Coccolitophores
-		- 2.2.1) This procedure is documented for each group respectively in the files `PHYSAT_HOV1_nano.m`, <br> `PHYSAT_HOV1_prochlo.m`, <br>`PHYSAT_HOV1_synecho.m`, <br>`PHYSAT_HOV1_diatoms.m`, <br>`PHYSAT_HOV1_phaeocys.m` and <br> `PHYSAT_HOV1_coccolitho.m`
+		- 2.2.1) This procedure is documented for each group respectively in the files <br> `PHYSAT_HOV1_nano.m`, <br> `PHYSAT_HOV1_prochlo.m`, <br>`PHYSAT_HOV1_synecho.m`, <br>`PHYSAT_HOV1_diatoms.m`, <br>`PHYSAT_HOV1_phaeocys.m` and <br> `PHYSAT_HOV1_coccolitho.m`
 - 3 ) With the two datasets prepared, I "merged" them by performing a convolution between the altimetric data and the PFT data.
 
 This yielded maps of where the organisms coincided with the passage of these low-frequency waves, either on crests or throughs, which were then analyzed to observe, quantitatively,
