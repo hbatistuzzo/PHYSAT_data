@@ -30,8 +30,8 @@ But *what* - you ask me, furiously - is the *point*?
 </h3>
 
 <br>
-I will leave below the abstract from my thesis, as it provides a necessary background before we can move on: \
-
+I will leave below the abstract from my thesis, as it provides a necessary background before we can move on:
+<br/><br/>
 
 
 Phytoplankton Functional Types (PFT's) play a variety of roles on biogeochemical cycles through positive and negative feedback mechanisms that influence a myriad of physical
