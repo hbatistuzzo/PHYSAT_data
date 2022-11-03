@@ -53,7 +53,7 @@ To sum it up:
 	- 1.3) Cleaned the data by filtering the so called "long term" component (in which the insidious slow heating of our planet throughout the decades is translated into
 altimetric data through thermosteric sea-level rise.
 	- 1.4) Extracted the sazonal component through a gaussian filter (to emulate the effect of seasons on the thermosteric effect)
-	- 1.5) Applied a chain of bidimensional Finite Impulse Response filters to extract Rossby waves (see Polito & Liu 2003 for more info), or, as I prefer to call them: _spanish_ _conquistador_ _helmet_ filter:
+	- 1.5) Applied a chain of bidimensional Finite Impulse Response filters to extract Rossby waves (see Polito & Liu 2003 for more info), or, as I prefer to call them: _spanish_ _conquistador_ _helmet_ filters:
 <p align="center"><img src="images/finalsombrero.png" width="75%" alt="sombrero"></p>
 - 2 ) In parallel, I organized PHYSAT data (with info on PFT's) in pretty much the same way, after which I:
 	- 2.1) Proceeded to interpolate this data so as to match the spatial and temporal resolution with that from the altimetry data.
