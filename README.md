@@ -33,7 +33,7 @@ But *what* - you ask me, furiously - is the *point*?
 I will leave below the abstract from my thesis, as it provides a necessary background before we can move on:
 <br/><br/>
 
-<h5 align="center"> 
+<h6 align="center"> 
 Phytoplankton Functional Types (PFT's) play a variety of roles on biogeochemical cycles through positive and negative feedback mechanisms that influence a myriad of physical
 and biological processes; moreover, these processes comprise a large range of both spatial and temporal scales. The study of such cycles, albeit complex, is imperative for
 the development of robust and prognostic climate models. On large-scale, sub-inertial processes comprehend the largest parcel of the oceanic energy spectrum and include the
@@ -44,7 +44,7 @@ discrimination of PFT's based on the radiance anomalies induced by the presence 
 radiance, masked by the presence of chlorophyll-a, an ubiquitous pigment in fitoplanctonic organisms. On this project I use the PHYSAT bio-algorithm's database
 (see Alvain2005) to investigate correlations with altimetry data on the South Atlantic Ocean and to determine if these waves can modify the composition of phytoplanktonic
 communities because of their propagation.
-</h5>
+</h6>
 
 To sum it up:
 - 1 ) I imported about 15 years of global altimetric daily data on a bunch of separate files.
