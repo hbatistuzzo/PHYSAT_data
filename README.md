@@ -30,7 +30,8 @@ But _what_ - you ask me, furiously - is the _point_?
 </h2>
 
 <br>
-I will leave below the abstract from my thesis, as it provides a necessary background before we can move on:
+I will leave below the abstract from my thesis, as it provides a necessary background before we can move on:<br>
+
 
 Phytoplankton Functional Types (PFT's) play a variety of roles on biogeochemical cycles through positive and negative feedback mechanisms that influence a myriad of physical
 and biological processes; moreover, these processes comprise a large range of both spatial and temporal scales. The study of such cycles, albeit complex, is imperative for
