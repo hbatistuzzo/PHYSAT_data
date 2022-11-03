@@ -51,7 +51,7 @@ altimetric data through thermosteric sea-level rise.
 - 2 ) In parallel, I organized PHYSAT data (with info on PFT's) in pretty much the same way, after which I:
 	- 2.1) Proceeded to interpolate this data so as to match the spatial and temporal resolution with that from the altimetry data.
 	- 2.2) Separated the 6 PFTs to analyze them independently: Cyanobacteria, _Prochlorophyta_, _Prymnesiophyta_, Diatoms, Dinoflagellates and Coccolitophores
-		- 2.2.1) This procedure is documented for each group respectively in the files `PHYSAT_HOV1_nano.m`, `PHYSAT_HOV1_prochlo.m`, `PHYSAT_HOV1_synecho.m`, `PHYSAT_HOV1_diatoms.m`, `PHYSAT_HOV1_phaeocys.m` and `PHYSAT_HOV1_coccolitho.m`
+		- 2.2.1) This procedure is documented for each group respectively in the files `PHYSAT_HOV1_nano.m`, <br> `PHYSAT_HOV1_prochlo.m`, <br>`PHYSAT_HOV1_synecho.m`, <br>`PHYSAT_HOV1_diatoms.m`, <br>`PHYSAT_HOV1_phaeocys.m` and <br> `PHYSAT_HOV1_coccolitho.m`
 - 3 ) With the two datasets prepared, I "merged" them by performing a convolution between the altimetric data and the PFT data.
 
 This yielded maps of where the organisms coincided with the passage of these low-frequency waves, either on crests or throughs, which were then analyzed to observe, quantitatively,
