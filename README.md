@@ -18,12 +18,13 @@ Hovmöller diagrams are particularly useful when analyzing oceanic phenomena who
 of altimetry data for a single latitude (30ºS) on the Atlantic Ocean. The diagonal features are Rossby waves, identified as westward-travelling crests and throughs that cross the South
 Atlantic after several months or even years. So how do we make those?
 
-<p align="right"><img src="images/hov.png" width="40%" alt="SA"></p>
 
 
 The ´PHYSAT_cuboid.m´ matlab code runs through a folder of several georeferenced netcdf global data files (arranged by date) and "stack" these lat-long maps to form a cube (hence the name),
 where the time variable can be understood as a vertical "z" axis. This cube is then sliced on the x-z plane i.e. the longitude-time plane for a specific latitude. Lo and behold,
 we obtain a Hovmöller / zonal-temporal diagram.
+<img src="/images/hov.png" align="right" width="50%"/>
+
 
 Phytoplankton Functional Types (PFT's) play a variety of roles on biogeochemical cycles through positive and negative feedback mechanisms that influence a myriad of physical
 and biological processes; moreover, these processes comprise a large range of both spatial and temporal scales. The study of such cycles, albeit complex, is imperative for
