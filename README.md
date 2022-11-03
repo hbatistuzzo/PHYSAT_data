@@ -17,7 +17,7 @@ Even when a "vertical" dimension such as Depth comes into the mix, it is customa
 
 
 In this project, however, instead of the usual lat-long snapshots of a certain variable, the focus was on the temporal evolution of said variable _in_ _time_, _for_ _a_ _certain_ _location_.
-Hovmöller diagrams are particularly useful when analyzing oceanic phenomena whose variability is roughly zonal i.e. confined to a single latitude. Here we have an example
+Hovmöller diagrams are particularly useful when analyzing oceanic phenomena whose variability is roughly zonal i.e. confined to a single latitude. Here on the right we have an example
 of altimetry data for a single latitude (30ºS) on the Atlantic Ocean. The diagonal features are Rossby waves, identified as westward-travelling crests and throughs that cross the South
 Atlantic after several months or even years. So how do we make those?
 
