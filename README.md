@@ -18,7 +18,7 @@ Hovmöller diagrams are particularly useful when analyzing oceanic phenomena who
 of altimetry data for a single latitude (30ºS) on the Atlantic Ocean. The diagonal features are Rossby waves, identified as westward-travelling crests and throughs that cross the South
 Atlantic after several months or even years. So how do we make those?
 
-<p align="right"><img src="images/hov.png" width="80%" alt="SA"></p>
+<p align="right"><img src="images/hov.png" width="40%" alt="SA"></p>
 
 
 The ´PHYSAT_cuboid.m´ matlab code runs through a folder of several georeferenced netcdf global data files (arranged by date) and "stack" these lat-long maps to form a cube (hence the name),
