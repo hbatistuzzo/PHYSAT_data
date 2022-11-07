@@ -73,15 +73,21 @@ altimetric data through thermosteric sea-level rise.
 This yielded maps of where the organisms coincided with the passage of these low-frequency waves, either on crests or throughs, which were then analyzed to observe, quantitatively,
 how this phenomena impact the transport of these phytoplanktonic groups.
 
----10.1073/pnas.0702737104
+<h2 align="center"> 
+Biological background
+</h2
 
-#Biological backgrond
-
-
-The global ocean has a significative role on the carbon cycle. According to (House et al., [2002](https://doi.org/10.1046/j.1365-2486.2002.00536.x})),
-(Sabine et al., [2004](https://doi.org/10.1126/science.1097403})),
-(Canadell et al., [2007](https://doi.org/10.1073/pnas.0702737104})) and
-(Le Queré et al., [2015](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014})), 25\% to 30\% of all the CO$_2$ introduced in the atmosphere due to anthropic action, which include burning of fossil fuels and deforestation, is absorved by the ocean. The increasing impact of climate change associated with the acceleration of the greenhouse effect on the last decades made relevant the development of biogeochemical models that contemplate, even if partially, the complexity of the carbon cycle on the marine environment. "The phytoplankton biological pump participates in regulating the amount of carbon in the atmosphere and is thought to be very sensitive to the forthcoming climate change (Cox et al., 2000; Bopp et al., 2001; Dufresnes et al., 2002; Sarmiento et al., 2004; Le Queré and Metzl, 2004; Le Queré et al., 2006)". This cycle includes positive and negative feedbacks in both physical and biological processes, thus introducing, at least in some degree, non-linearities to these mechanisms. \cite{Field1998} and \cite{Sabine04} observe that a better understanding of these processes in global scale is particularly relevant for the development and refinement of climatic models. Supported by more ample \textit{(comprehensive?)} and precise models, the scientific community can assist in the decision-making that inexorably will have expressive impact in the environmental, social, economical and political spheres, on a global context.
+The global ocean has a significative role on the carbon cycle. According to House et al., [2002](https://doi.org/10.1046/j.1365-2486.2002.00536.x}),
+Sabine et al., [2004](https://doi.org/10.1126/science.1097403}),
+Canadell et al., [2007](https://doi.org/10.1073/pnas.0702737104}) and
+Le Queré et al., [2015](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}), 25\% to 30\% of all the CO$_2$ introduced in the atmosphere due to anthropic action,
+which include burning of fossil fuels and deforestation, is absorved by the ocean. The increasing impact of climate change associated with the acceleration of the
+greenhouse effect on the last decades made relevant the development of biogeochemical models that contemplate, even if partially, the complexity of the carbon cycle
+on the marine environment. "The phytoplankton biological pump participates in regulating the amount of carbon in the atmosphere and is thought to be very sensitive
+to the forthcoming climate change
+(Cox et al., [2000](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}), Bopp et al., [2001](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}),
+Dufresnes et al., [2002](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}), Sarmiento et al., [2004](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}),
+Le Queré and Metzl, [2004](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}), Le Queré et al., [2006](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014})). This cycle includes positive and negative feedbacks in both physical and biological processes, thus introducing, at least in some degree, non-linearities to these mechanisms. \cite{Field1998} and \cite{Sabine04} observe that a better understanding of these processes in global scale is particularly relevant for the development and refinement of climatic models. Supported by more ample \textit{(comprehensive?)} and precise models, the scientific community can assist in the decision-making that inexorably will have expressive impact in the environmental, social, economical and political spheres, on a global context.
 
 Biological processes are influenced by physical processes in an ample variety of spatial and temporal scales, from the molecular diffusion of oxygen and nutrients essential to unicellular organisms to the advection of phytoplankton blooms by planetary waves. Meso- and large-scale processes (O$[10^{4-5}]$ m) are tipically sub-inertial (O$[10^{1-2}]$ dias) and comprise the biggest parcel of energy from the global oceanic spectra. Interannual or even interdecadal frequency signals (e.g.: the El Niño/La Niña cycle, \acrlong{enso}, (\acrshort{enso})) are responsible for heat exchange.
 
