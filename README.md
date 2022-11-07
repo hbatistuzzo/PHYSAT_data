@@ -65,7 +65,7 @@ altimetric data through thermosteric sea-level rise.
 	- 2.2) Separated the 6 PFTs to analyze them independently: Cyanobacteria, _Prochlorophyta_, _Prymnesiophyta_, Diatoms, Dinoflagellates and Coccolitophores
 		- 2.2.1) This procedure is documented for each group respectively in the files
 
-`PHYSAT_HOV1_nano.m`, `PHYSAT_HOV2_prochlo.m`, `PHYSAT_HOV3_synecho.m`, `PHYSAT_HOV4_diatoms.m`, `PHYSAT_HOV5_phaeocys.m` and `PHYSAT_HOV6_coccolitho.m`
+`/codes/PHYSAT_HOV1_nano.m`, `/codes/PHYSAT_HOV2_prochlo.m`, `/codes/PHYSAT_HOV3_synecho.m`, `/codes/PHYSAT_HOV4_diatoms.m`, `/codes/PHYSAT_HOV5_phaeocys.m` and `/codes/PHYSAT_HOV6_coccolitho.m`
 
 
 - 3 ) With the two datasets prepared, I "merged" them by performing a convolution between the altimetric data and the PFT data.
@@ -95,7 +95,7 @@ impact in the environmental, social, economical and political spheres, on a glob
 
 Biological processes are influenced by physical processes in an ample variety of spatial and temporal scales, from the molecular diffusion of oxygen and nutrients essential
 to unicellular organisms to the advection of phytoplankton blooms by planetary waves. Meso- and large-scale processes (O$[10^{4-5}]$ m) are tipically sub-inertial
-(O$[10^{1-2}]$ dias) and comprise the biggest parcel of energy from the global oceanic spectra. Interannual or even interdecadal frequency signals
+(O$[10^{1-2}]$ days) and comprise the biggest parcel of energy from the global oceanic spectra. Interannual or even interdecadal frequency signals
 (e.g.: the El Niño/La Niña cycle) are responsible for heat exchange.
 
 The hypothesis of the work is that Rossby waves modify the composition of PFT's in the South Atlantic Ocean.
