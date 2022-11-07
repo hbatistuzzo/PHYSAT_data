@@ -87,8 +87,18 @@ on the marine environment. "The phytoplankton biological pump participates in re
 to the forthcoming climate change
 (Cox et al., [2000](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}), Bopp et al., [2001](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}),
 Dufresnes et al., [2002](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}), Sarmiento et al., [2004](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}),
-Le Queré and Metzl, [2004](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}), Le Queré et al., [2006](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014})). This cycle includes positive and negative feedbacks in both physical and biological processes, thus introducing, at least in some degree, non-linearities to these mechanisms. \cite{Field1998} and \cite{Sabine04} observe that a better understanding of these processes in global scale is particularly relevant for the development and refinement of climatic models. Supported by more ample \textit{(comprehensive?)} and precise models, the scientific community can assist in the decision-making that inexorably will have expressive impact in the environmental, social, economical and political spheres, on a global context.
+Le Queré and Metzl, [2004](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014}), Le Queré et al., [2006](http://dx.doi.org/10.3334/CDIAC/GCP{\_}2014})).
+This cycle includes positive and negative feedbacks in both physical and biological processes, thus introducing, at least in some degree, non-linearities to these mechanisms.
+Field et al., [1998](https://doi.org/10.1126/science.1097403}) and Sabine et al., [2004](https://doi.org/10.1126/science.1097403}) observe that a better understanding of these processes in global scale is particularly relevant for the development and refinement of climatic models.
+Supported by more comprehensive and precise models, the scientific community can assist in the decision-making that inexorably will have expressive
+impact in the environmental, social, economical and political spheres, on a global context.
 
-Biological processes are influenced by physical processes in an ample variety of spatial and temporal scales, from the molecular diffusion of oxygen and nutrients essential to unicellular organisms to the advection of phytoplankton blooms by planetary waves. Meso- and large-scale processes (O$[10^{4-5}]$ m) are tipically sub-inertial (O$[10^{1-2}]$ dias) and comprise the biggest parcel of energy from the global oceanic spectra. Interannual or even interdecadal frequency signals (e.g.: the El Niño/La Niña cycle, \acrlong{enso}, (\acrshort{enso})) are responsible for heat exchange.
+Biological processes are influenced by physical processes in an ample variety of spatial and temporal scales, from the molecular diffusion of oxygen and nutrients essential
+to unicellular organisms to the advection of phytoplankton blooms by planetary waves. Meso- and large-scale processes (O$[10^{4-5}]$ m) are tipically sub-inertial
+(O$[10^{1-2}]$ dias) and comprise the biggest parcel of energy from the global oceanic spectra. Interannual or even interdecadal frequency signals
+(e.g.: the El Niño/La Niña cycle) are responsible for heat exchange.
 
-The hypothesis of this work is that Rossby waves modify the composition of \gls{gffs} in the South Atlantic Ocean. In order to test this hypothesis, the goal of this article is to investigate statistical correlations between either the  \gls{chla} concentration anomalies or the presence of \gls{gffs} and the signal of first mode baroclinic Rossby waves, on the South Atlantic Ocean. Such waves will be characterized with the aid of altimeter data. The phytoplankton groups analyzed here are those identified with the bio-optical algorithm PHYSAT.
+The hypothesis of the work is that Rossby waves modify the composition of PFT's in the South Atlantic Ocean.
+In order to test this hypothesis, I investigate statistical correlations between either the Chl-a concentration anomalies or
+the presence of PFT's and the signal of first mode baroclinic Rossby waves on the South Atlantic Ocean.
+Such waves is characterized with the aid of altimeter data. The phytoplankton groups analyzed here are those identified with the bio-optical algorithm PHYSAT.
