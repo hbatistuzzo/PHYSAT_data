@@ -5,6 +5,21 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/PHYSAT_data_processing)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/PHYSAT_data_processing)
 
+Project status: In Progress
+
+## Technologies
+
+- Python 3.8.13
+	- Numpy 1.20.3
+	- Seaborn 0.11.2
+	- Matplotlib 3.5.3
+	- Xarray 2022.10.0
+	- Dask 2021.09
+	- Cartopy 0.21.0
+	- Cmocean 2.0
+
+---
+
 ## Info
 These codes were used in my honour's thesis "1st mode baroclinic Rossby waves modify the composition of Phytoplancton Functional Groups".
 
